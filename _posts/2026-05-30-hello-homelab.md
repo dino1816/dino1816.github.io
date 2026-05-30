@@ -1,6 +1,6 @@
 ---
 title: Hello Homelab
-date: 2026-05-30 20:15:00 +0100
+date: 2026-05-30 08:00:00 +0100
 categories: [homelab, hardware]
 tags: [servers, dell, hp, supermicro]
 ---
@@ -18,13 +18,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * sh
 * it
 * niq
-
-```python
-for i in python:
-    print("Hello")
-```
-
-
-```bash
-sudo apt update -y && sudo apt upgrade -y
-```
