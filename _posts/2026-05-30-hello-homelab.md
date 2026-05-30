@@ -1,0 +1,30 @@
+---
+title: Hello Homelab
+date: 2026-05-30 23:47:00 +0100
+categories: [homelab, hardware]
+tags: [servers, dell, hp, supermicro]
+---
+
+# Welcome
+
+This is my fucking site!
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Shit fuck piss
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* sh
+* it
+* niq
+
+```python
+for i in python:
+    print("Hello")
+```
+
+
+```bash
+sudo apt update -y && sudo apt upgrade -y
+```
