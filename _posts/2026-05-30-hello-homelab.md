@@ -1,6 +1,6 @@
 ---
 title: Hello Homelab
-date: 2026-05-30 23:47:00 +0100
+date: 2026-05-30 20:15:00 +0100
 categories: [homelab, hardware]
 tags: [servers, dell, hp, supermicro]
 ---
