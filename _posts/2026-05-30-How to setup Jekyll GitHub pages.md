@@ -4,7 +4,7 @@ date: 2026-05-30 08:00:00 +0100
 categories: [Documentation, Jekyll]
 tags: [jekyll, github, github-pages, chirpy, self-hosted, documentation]
 image:
-  path: /assets/img/posts/jekyll-setup.jpg
+  path: /assets/img/posts/Jekyll.png
   alt: Jekyll Setup Guide
 ---
 
