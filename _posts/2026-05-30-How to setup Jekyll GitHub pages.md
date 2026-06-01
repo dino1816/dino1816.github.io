@@ -8,7 +8,7 @@ image:
   alt: Jekyll Setup Guide
 ---
 
-This is a complete guide on how to set up a documentation and blog website exactly like [Techno Tim's](https://technotim.live) using Jekyll, the Chirpy theme, and GitHub Pages — for free.
+This is a complete guide on how to set up a documentation and blog website exactly like using Jekyll, the Chirpy theme, and GitHub Pages — for free.
 
 ## What We Are Building
 
@@ -252,7 +252,6 @@ DNS propagation can take up to 24-48 hours.
 
 | Resource | URL |
 |---|---|
-| Techno Tim's site source | [github.com/techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) |
 | Chirpy starter template | [github.com/cotes2020/chirpy-starter/generate](https://github.com/cotes2020/chirpy-starter/generate) |
 | Chirpy theme docs | [chirpy.cotes.page](https://chirpy.cotes.page) |
 | Techno Tim's Jekyll video | [technotim.live/posts/jekyll-docs-site](https://technotim.live/posts/jekyll-docs-site/) |
