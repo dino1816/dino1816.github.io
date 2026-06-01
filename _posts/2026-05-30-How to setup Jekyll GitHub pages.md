@@ -3,6 +3,9 @@ title: How to Set Up a Jekyll Documentation Site on GitHub Pages
 date: 2026-05-30 08:00:00 +0100
 categories: [Documentation, Jekyll]
 tags: [jekyll, github, github-pages, chirpy, self-hosted, documentation]
+image:
+  path: /assets/img/posts/jekyll-setup.jpg
+  alt: Jekyll Setup Guide
 ---
 
 This is a complete guide on how to set up a documentation and blog website exactly like [Techno Tim's](https://technotim.live) using Jekyll, the Chirpy theme, and GitHub Pages — for free.
@@ -26,11 +29,10 @@ This is a complete guide on how to set up a documentation and blog website exact
 
 ## Step 1 — Create the Repository from Chirpy Starter
 
-1. Go to [github.com/cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter)
-2. Click **"Use this template"** → **"Create a new repository"**
-3. Name it exactly: `yourusername.github.io`
-4. Set visibility to **Public**
-5. Click **"Create repository"**
+1. Go directly to [github.com/cotes2020/chirpy-starter/generate](https://github.com/cotes2020/chirpy-starter/generate) — this takes you straight to the create repository page
+2. Name it exactly: `yourusername.github.io`
+3. Set visibility to **Public**
+4. Click **"Create repository"**
 
 ---
 
@@ -251,7 +253,7 @@ DNS propagation can take up to 24-48 hours.
 | Resource | URL |
 |---|---|
 | Techno Tim's site source | [github.com/techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) |
-| Chirpy starter template | [github.com/cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) |
+| Chirpy starter template | [github.com/cotes2020/chirpy-starter/generate](https://github.com/cotes2020/chirpy-starter/generate) |
 | Chirpy theme docs | [chirpy.cotes.page](https://chirpy.cotes.page) |
 | Techno Tim's Jekyll video | [technotim.live/posts/jekyll-docs-site](https://technotim.live/posts/jekyll-docs-site/) |
 | Writing posts guide | [chirpy.cotes.page/posts/write-a-new-post](https://chirpy.cotes.page/posts/write-a-new-post/) |
